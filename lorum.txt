@@ -1,20 +1,11 @@
 Fusce interdum volutpat sodales. Etiam pulvinar turpis nec consectetur
 fringilla. Ut finibus vel nunc ut porta. Phasellus feugiat mollis
-turpis, vel pretium augue porttitor vitae. Curabitur ligula quam,
-pellentesque sit amet nisi ut, rhoncus vehicula lacus. Vivamus ornare
-magna ut leo malesuada, in iaculis nisl dignissim. Praesent at maximus
-purus. Sed sed urna in dolor accumsan lacinia. Suspendisse egestas
-eget risus a fermentum. Sed faucibus justo dolor, nec volutpat ligula
-congue vel. Mauris velit nisl, ultrices ac imperdiet nec, luctus sed
-sem. Curabitur lacinia ultricies lorem ut placerat. Proin turpis diam,
+turpis, vel pretium augue porttitor vitae. Curabitur ligula quam.
+Curabitur lacinia ultricies lorem ut placerat. Proin turpis diam,
 convallis eu condimentum nec, pretium non sem. Nulla facilisi.
 
 Morbi finibus consequat vulputate. Duis in erat quis velit vehicula
 vehicula et sed diam. Aliquam ligula nulla, faucibus eu auctor et,
-facilisis vel magna. Mauris sit amet nisi vel erat facilisis vulputate.
-Pellentesque semper sem id elit commodo, at luctus nulla porta. Sed
-sollicitudin libero quis sem elementum lacinia. Pellentesque neque odio,
-auctor in efficitur nec, sagittis a nisl. Maecenas ut leo nec augue
 maximus dictum. Donec faucibus aliquet lacus, laoreet molestie dui
 varius in. Curabitur eleifend malesuada diam, at pharetra nisi finibus
 eu. Cras finibus tincidunt nisi ac rutrum. Suspendisse dignissim, arcu
